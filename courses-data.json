@@ -1,0 +1,192 @@
+{
+  "courses_count": 17,
+  "courses": [
+    {
+      "id": "CS5182-Computer_Graphics",
+      "folder": "CS5182-Computer_Graphics",
+      "code": "CS5182",
+      "name": "Computer Graphics",
+      "intro_html": "src/core_courses/CS5182-Computer_Graphics/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5185-Multimedia_Technologies_and_Applications",
+      "folder": "CS5185-Multimedia_Technologies_and_Applications",
+      "code": "CS5185",
+      "name": "Multimedia Technologies and Applications",
+      "intro_html": "src/core_courses/CS5185-Multimedia_Technologies_and_Applications/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5187-Vision_and_Image",
+      "folder": "CS5187-Vision_and_Image",
+      "code": "CS5187",
+      "name": "Vision and Image",
+      "intro_html": "src/core_courses/CS5187-Vision_and_Image/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5188-Virtual_Reality_Technologies_and_Applications",
+      "folder": "CS5188-Virtual_Reality_Technologies_and_Applications",
+      "code": "CS5188",
+      "name": "Virtual Reality Technologies and Applications",
+      "intro_html": "src/core_courses/CS5188-Virtual_Reality_Technologies_and_Applications/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5222-Computer_Networks_and_Internets",
+      "folder": "CS5222-Computer_Networks_and_Internets",
+      "code": "CS5222",
+      "name": "Computer Networks and Internets",
+      "intro_html": "src/core_courses/CS5222-Computer_Networks_and_Internets/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5282-Practical_Optimization_Algorithms_and_Techniques",
+      "folder": "CS5282-Practical_Optimization_Algorithms_and_Techniques",
+      "code": "CS5282",
+      "name": "Practical Optimization Algorithms and Techniques",
+      "intro_html": "src/core_courses/CS5282-Practical_Optimization_Algorithms_and_Techniques/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5351-Software_Engineering",
+      "folder": "CS5351-Software_Engineering",
+      "code": "CS5351",
+      "name": "Software Engineering",
+      "intro_html": "src/core_courses/CS5351-Software_Engineering/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5487-Machine_Learning:_Principles_and_Practice",
+      "folder": "CS5487-Machine_Learning:_Principles_and_Practice",
+      "code": "CS5487",
+      "name": "Machine Learning: Principles and Practice",
+      "intro_html": "src/core_courses/CS5487-Machine_Learning:_Principles_and_Practice/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5488-Big_Data_Algorithms_and_Techniques",
+      "folder": "CS5488-Big_Data_Algorithms_and_Techniques",
+      "code": "CS5488",
+      "name": "Big Data Algorithms and Techniques",
+      "intro_html": "src/core_courses/CS5488-Big_Data_Algorithms_and_Techniques/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS5489-Machine_Learning:_Algorithms_and_Applications",
+      "folder": "CS5489-Machine_Learning:_Algorithms_and_Applications",
+      "code": "CS5489",
+      "name": "Machine Learning: Algorithms and Applications",
+      "intro_html": "src/core_courses/CS5489-Machine_Learning:_Algorithms_and_Applications/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS6175-Virtual_Reality_and_Game-Engine_Technologies",
+      "folder": "CS6175-Virtual_Reality_and_Game-Engine_Technologies",
+      "code": "CS6175",
+      "name": "Virtual Reality and Game-Engine Technologies",
+      "intro_html": "src/core_courses/CS6175-Virtual_Reality_and_Game-Engine_Technologies/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS6491-Topics_in_Optimization_and_its_Applications_in_Computer_Science",
+      "folder": "CS6491-Topics_in_Optimization_and_its_Applications_in_Computer_Science",
+      "code": "CS6491",
+      "name": "Topics in Optimization and its Applications in Computer Science",
+      "intro_html": "src/core_courses/CS6491-Topics_in_Optimization_and_its_Applications_in_Computer_Science/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS6493-Natural_Language_Processing",
+      "folder": "CS6493-Natural_Language_Processing",
+      "code": "CS6493",
+      "name": "Natural Language Processing",
+      "intro_html": "src/core_courses/CS6493-Natural_Language_Processing/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS6520-Project",
+      "folder": "CS6520-Project",
+      "code": "CS6520",
+      "name": "Project",
+      "intro_html": "src/core_courses/CS6520-Project/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS6521-Research_Internship_Project",
+      "folder": "CS6521-Research_Internship_Project",
+      "code": "CS6521",
+      "name": "Research Internship Project",
+      "intro_html": "src/core_courses/CS6521-Research_Internship_Project/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "CS6534-Guided_Study",
+      "folder": "CS6534-Guided_Study",
+      "code": "CS6534",
+      "name": "Guided Study",
+      "intro_html": "src/core_courses/CS6534-Guided_Study/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    },
+    {
+      "id": "EC6001-eCommerce_Project",
+      "folder": "EC6001-eCommerce_Project",
+      "code": "EC6001",
+      "name": "eCommerce Project",
+      "intro_html": "src/core_courses/EC6001-eCommerce_Project/courses.html",
+      "files": {
+        "folders": {},
+        "files": []
+      }
+    }
+  ]
+}
