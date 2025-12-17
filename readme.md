@@ -11,7 +11,7 @@
     <h1 align="center">For CityU Review Hub</h1>
     为香港城市大学学生设计的标准化复习资料仓库模板，快速开始建设你的专业资源库。
 
-[📚 查看使用说明](#-快速开始) · [🤝 参与贡献](#-参与贡献) · [💡 获取帮助](https://github.com/SHANECHEN0722/ityu-review-template/issues)
+[📚 查看使用说明](#-快速开始) · [🤝 参与贡献](#-参与贡献) · [💡 获取帮助](https://github.com/SHANECHEN0722/cityu-review-template/issues)
 </p>
 
 ## 📖 项目简介
