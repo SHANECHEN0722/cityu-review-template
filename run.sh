@@ -1,7 +1,7 @@
 #!/bin/bash
 # 一键更新并部署课程资料
 # 使用方法: ./run.sh
-#你要先记得git add remote repo
+#你要先记得git add remote repo 并且添加权限chmod +x run.sh
 
 echo "🔄 步骤 1/3: 扫描课程文件夹..."
 python3 tool/generate_courses_data.py

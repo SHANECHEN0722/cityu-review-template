@@ -11,7 +11,7 @@
     <h1 align="center">For CityU Review Hub</h1>
     为香港城市大学学生设计的标准化复习资料仓库模板，快速开始建设你的专业资源库。
 
-[📚 查看使用说明](#-快速开始) · [🤝 参与贡献](#-参与贡献) · [💡 获取帮助](https://github.com/SHANECHEN0722/cityu-review-template/issues)
+[📚 查看使用说明](#-快速开始) · [🤝 参与贡献](#-参与贡献) · [💡 获取帮助](https://github.com/SHANECHEN0722/cityu-review-template/issues) · [😊 实际案例仓库](https://github.com/SHANECHEN0722/cityu-CS-review)
 </p>
 
 ## 📖 项目简介
@@ -117,16 +117,13 @@ cityu-[专业简称]-review/
 │   ├── professor-reviews.md             # 教授评价和推荐
 │   └── program-overview.md              # 专业概览
 │
-├── 📚 核心课程/                         # 为每门课创建一个文件夹
-│   ├── CS1000-IntroToCS/
-│   ├── CS2000-DataStructures/
-│   └── [课程代码]-[课程名]/
-│       ├── README.md                    # 课程说明
-│       ├── 📖 lecture_notes/            # 讲义和课件
-│       ├── 📋 assignments/              # 作业和解答
-│       ├── 📚 tutorials/                # 教程和练习
-│       ├── 🎯 past_papers/              # 往年试题
-│       └── 📄 review/                   # 复习总结
+├───src/                         
+│   └── core_cources/
+│            └── [课程代码]-[课程名]/
+│                  ├── cources.html              # 课程描述
+│                  ├── homework/                 # 作业和解答
+│                  ├── course_files/             # lecture & tutorial
+│                  └── review/                   # 复习总结
 │
 ├── 🏢 实习求职/ (可选)
 │   ├── internship-guide.md              # 实习申请指南
@@ -210,7 +207,7 @@ A: 可以，但建议用 Git LFS 或上传到云盘提供链接。
 
 遇到问题？
 
-- 📖 查看 [CityU Review Hub](https://github.com/SHANECHEN0722/Cityu-Review)
+- 📖 查看 [查看模板网页](https://shanechen0722.github.io/cityu-review-template/)
 - 💬 在 [Issues](https://github.com/SHANECHEN0722/cityu-review-template/issues) 提问
 - 🌐 访问 [导航网站](https://shanechen0722.github.io/Cityu-Review/)
 <p align="right"><a href="#readme-top">回到顶部</a></p>
